@@ -8,4 +8,4 @@ EXPOSE 5000
 
 ENV __name__="luka mamulashvili"
 
-CMD ["python", "backend.py"]
+CMD ["python", "frontend.py"]
