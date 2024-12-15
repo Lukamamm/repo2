@@ -6,6 +6,6 @@ COPY frontend.py .
 
 EXPOSE 5001	
 
-ENV __name__="luka mamulashvili"
+ENV NAME="luka mamulashvili"
 
 CMD ["python", "frontend.py"]
