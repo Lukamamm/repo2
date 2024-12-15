@@ -4,7 +4,7 @@ RUN pip install flask
 
 COPY frontend.py .
 
-EXPOSE 5000	
+EXPOSE 5001	
 
 ENV __name__="luka mamulashvili"
 
