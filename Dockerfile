@@ -8,3 +8,4 @@ EXPOSE 5001
 
 ENV __name__="luka mamulashvili"
 
+CMD ["python", "frontend.py"]
